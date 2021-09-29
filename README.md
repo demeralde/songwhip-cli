@@ -15,7 +15,7 @@ go install github.com/dspacejs/songwhip-cli
 3. Run the script with a link to a song:
 
 ```sh
-songwhip-cli https://songwhip.com/ilanbluestone/spheres
+songwhip-cli https://tidal.com/browse/track/79930135
 ```
 
 It will copy the Songwhip URL to the clipboard.
